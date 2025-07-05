@@ -40,4 +40,8 @@ _______________________________
 _______________________________
 ```
 
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
 ## Author: Silven Mohan
