@@ -52,8 +52,8 @@ int main()
 	{ 
 		charge +=charge;
 	}
-	charge +=charge+fc+cc+edc;
 	edc=(charge)*(3.16/100);
+	charge +=charge+fc+cc+edc;
 	printf("\n|Fixed Charges: \t:%.2f", fc);
 	printf("\n|Customer Charges \t:%.2f", cc);
 	printf("\n|ED Charges \t\t:%.2f", edc);
